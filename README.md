@@ -17,6 +17,17 @@ Combined Graph:
 - Orange Line: Year-over-Year % change
 - Shows how inflation trends shift over the years
 
+🧮 Descriptive Statistics
+
+| Statistic          | CPI Values | YoY (%) Change |
+| ------------------ | ---------- | -------------- |
+| Mean               | 130.77     | 3.44%          |
+| Median             | 133.80     | 3.37%          |
+| Standard Deviation | 20.1008    | 0.0165         |
+| Min                | 98.70      | 0.95%          |
+| Max                | 163.60     | 6.94%          |
+
+
 🧠 Methodology
 
 - Extracted CPI data from [Department of Statistics Malaysia (DOSM)](https://open.dosm.gov.my)
